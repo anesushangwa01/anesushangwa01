@@ -25,6 +25,47 @@ I'm **Anesu**, a BYU–Idaho software development graduate and a current Ensign 
 - 🧭 **Growing toward:** Cloud / Platform Engineering
 - 💡 **My approach:** learn by building, document what works, improve what doesn't
 
+## 🚀 Featured projects
+
+A selection of real-world platforms I've contributed to, spanning **commerce, careers, and logistics**.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🛍️ Cleeka
+**E-commerce & marketplace**
+
+Online shopping platform featuring product discovery across multiple categories, customer shopping experiences, and vendor access.
+
+[**Visit Cleeka ↗**](https://cleeka.com/)
+
+</td>
+<td width="33%" valign="top">
+
+### 🌱 Kukura Zimbabwe
+**Careers & opportunities**
+
+Career-oriented digital platform connecting students and employers, focused on improving access to opportunities.
+
+[**Visit Kukura ↗**](https://www.kukurazimbabwe.org/)
+
+</td>
+<td width="33%" valign="top">
+
+### 🚚 TruckGo
+**Transport & logistics**
+
+Transport-focused software project supporting the digitization of truck and logistics services.
+
+[**Visit TruckGo ↗**](https://truckgo.co.zw/)
+
+</td>
+</tr>
+</table>
+
+> These are collaborative projects I've worked on. Each showcases a different real-world problem and product domain.
+
 ## 🎓 Education & qualifications
 
 A foundation in **software engineering** and an expanding focus on **systems, infrastructure, and cloud operations**.
