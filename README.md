@@ -2,27 +2,44 @@
 
 <img src="./assets/header.svg" alt="Anesu Shangwa — Software Developer, Cloud and DevOps" width="100%" />
 
-<br/>
-
-### 🚀 Have a software idea? Let's build it.
-
-**Need a website, web application, mobile app, or custom business system?**
-
-I help turn ideas and business needs into practical digital solutions—from planning and development to deployment. **Let's discuss your project.**
-
-[![WhatsApp me](https://img.shields.io/badge/WhatsApp-Chat_about_your_project-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/263774998764?text=Hello%20Anesu%2C%20I%27d%20like%20to%20discuss%20a%20software%20project.)
-[![Email me](https://img.shields.io/badge/Gmail-Send_an_inquiry-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anesushangwa01@gmail.com?subject=Software%20Project%20Inquiry)
-
-**📱 WhatsApp:** [+263 77 499 8764](https://wa.me/263774998764) &nbsp; | &nbsp; **✉️ Email:** [anesushangwa01@gmail.com](mailto:anesushangwa01@gmail.com)
+</div>
 
 <br/>
 
-**Building software today. Engineering the cloud behind it tomorrow.**
+<table>
+<tr>
+<td width="62%" valign="middle">
 
-Software Development &nbsp;•&nbsp; Cloud Infrastructure &nbsp;•&nbsp; DevOps & Automation
+### 🚀 Let's build your next software solution
 
-[![GitHub](https://img.shields.io/badge/GitHub-Explore_Projects-101828?style=flat-square&logo=github&logoColor=white)](https://github.com/anesushangwa01?tab=repositories)
-![Profile Views](https://komarev.com/ghpvc/?username=anesushangwa01&color=0f92be&style=flat-square&label=Profile+views)
+**Websites · Web apps · Mobile apps · Business systems**
+
+Have an idea or a business challenge? I build practical digital solutions, from planning and development through deployment.
+
+**Let's talk about your project.**
+
+</td>
+<td width="38%" valign="middle">
+
+**📬 Start a conversation**
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/263774998764?text=Hello%20Anesu%2C%20I%27d%20like%20to%20discuss%20a%20software%20project.)
+
+[![Email](https://img.shields.io/badge/Email-Send_Inquiry-2563EB?style=flat-square&logo=gmail&logoColor=white)](mailto:anesushangwa01@gmail.com?subject=Software%20Project%20Inquiry)
+
+[+263 77 499 8764](https://wa.me/263774998764)
+
+[anesushangwa01@gmail.com](mailto:anesushangwa01@gmail.com)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<sub>Software Development · Cloud Infrastructure · DevOps & Automation</sub>
+
+[Explore Projects](https://github.com/anesushangwa01?tab=repositories) · [Connect on WhatsApp](https://wa.me/263774998764)
 
 </div>
 
