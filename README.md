@@ -1,87 +1,84 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=190&section=header&text=Anesu%20Shangwa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Development%20%7C%20Cloud%20%26%20DevOps&descSize=17&descAlignY=59" alt="Anesu Shangwa — Software Development, Cloud and DevOps" />
+<img src="./assets/header.svg" alt="Anesu Shangwa — Software Developer, Cloud and DevOps" width="100%" />
 
-### 👋 Hi, I'm Anesu!
+<br/>
 
-**Software Developer | Cloud & DevOps Enthusiast | Lifelong Learner**
+**Building software today. Engineering the cloud behind it tomorrow.**
 
-I enjoy building useful software and learning how to deploy, automate, secure, and operate the infrastructure behind it.
+Software Development &nbsp;•&nbsp; Cloud Infrastructure &nbsp;•&nbsp; DevOps & Automation
 
-[![GitHub followers](https://img.shields.io/github/followers/anesushangwa01?style=for-the-badge&logo=github&label=Followers)](https://github.com/anesushangwa01?tab=followers)
-![Profile views](https://komarev.com/ghpvc/?username=anesushangwa01&style=for-the-badge&color=0ea5e9)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_Projects-101828?style=flat-square&logo=github&logoColor=white)](https://github.com/anesushangwa01?tab=repositories)
+![Profile Views](https://komarev.com/ghpvc/?username=anesushangwa01&color=0f92be&style=flat-square&label=Profile+views)
 
 </div>
 
----
+<br/>
 
-### 🚀 About Me
+## 👨‍💻 A little about me
 
-- 💻 Interested in **full-stack software development** and practical engineering.
-- ☁️ Developing skills across **Microsoft Azure, AWS, and cloud infrastructure**.
-- 🛠️ Exploring **DevOps, platform engineering, automation, and Infrastructure as Code**.
-- 🧪 Learning through hands-on labs with **Linux, Docker, Terraform, networking, and self-hosted services**.
-- 📚 Focused on understanding not just how to deploy applications, but how to keep them reliable, secure, and maintainable.
+I'm **Anesu**, a software developer who enjoys building web and mobile applications—and understanding everything it takes to run them in the real world.
 
-### 🧰 Technologies & Tools
+- 🔭 **Building:** practical applications and backend services
+- ☁️ **Exploring:** Microsoft Azure, AWS, cloud architecture and operations
+- ⚙️ **Practicing:** Infrastructure as Code, containers, networking and Linux
+- 🧭 **Growing toward:** Cloud / Platform Engineering
+- 💡 **My approach:** learn by building, document what works, improve what doesn't
+
+## ⚡ Tech stack
+
+<div align="center">
 
 **Cloud & Infrastructure**
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+<img src="https://skillicons.dev/icons?i=azure,aws,terraform,docker,kubernetes,linux&theme=dark" alt="Azure, AWS, Terraform, Docker, Kubernetes, Linux" />
 
-**Development, Data & Operations**
+**Development & Backend**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-> These badges represent technologies I use, explore, or am learning—not a claim of certification in each one.
-
-### 🎯 What I'm Working Toward
-
-```text
-Software Development
-        |
-        v
-Microsoft Azure Administration (AZ-104)
-        |
-        v
-Terraform & Infrastructure as Code
-        |
-        v
-AWS Architecture & Cloud Services
-        |
-        v
-DevOps + Linux + Kubernetes
-        |
-        v
-Cloud / Platform Engineering
-```
-
-### 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anesushangwa01&show_icons=true&theme=tokyonight&hide_border=true" alt="Anesu's GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anesushangwa01&layout=compact&theme=tokyonight&hide_border=true" alt="Languages used in public GitHub repositories" />
+<img src="https://skillicons.dev/icons?i=git,github,postgres,supabase,nginx,bash&theme=dark" alt="Git, GitHub, PostgreSQL, Supabase, Nginx, Bash" />
 
 </div>
 
-### 🤝 Let's Connect
+<sub>These are technologies I work with or am learning, not a claim of certification in all of them.</sub>
 
-I'm interested in opportunities to learn, collaborate, and build meaningful software and cloud infrastructure.
+## 🛠️ Engineering focus
 
-📫 [Explore my GitHub repositories](https://github.com/anesushangwa01?tab=repositories)
+| 💻 Software engineering | ☁️ Cloud infrastructure | 🚀 DevOps & operations |
+| :--- | :--- | :--- |
+| Web and mobile applications | Azure & AWS fundamentals | Terraform (Infrastructure as Code) |
+| Backend services and APIs | Virtual networks & Linux servers | Docker & Kubernetes |
+| PostgreSQL & Supabase | Secure, scalable architecture | Git, automation & monitoring |
+
+## 🧭 My learning roadmap
+
+| Step | Focus | Why it matters |
+| :---: | :--- | :--- |
+| **01** | **Software development** | Build and understand real applications |
+| **02** | **Azure administration · AZ-104** | Manage core cloud resources |
+| **03** | **Terraform / Infrastructure as Code** | Provision repeatable environments |
+| **04** | **AWS architecture** | Develop multi-cloud design skills |
+| **05** | **DevOps · Linux · Kubernetes** | Operate and automate reliable services |
+| **06** | **Cloud / Platform Engineering** | Bring software and infrastructure together |
+
+## 📈 GitHub in action
+
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/anesushangwa01?style=flat-square&logo=github&label=Followers)](https://github.com/anesushangwa01?tab=followers)
+[![Public repositories](https://img.shields.io/badge/Projects-Explore_my_repositories-2c6fbd?style=flat-square&logo=github)](https://github.com/anesushangwa01?tab=repositories)
+
+</div>
+
+> Great engineering is more than writing code. It's also deploying it, securing it and making it dependable.
+
+<div align="center">
 
 ---
 
-<div align="center">
-<sub>Build • Learn • Automate • Improve</sub>
+**Open to learning, collaboration and meaningful engineering challenges.**
+
+[**Explore my work →**](https://github.com/anesushangwa01?tab=repositories)
+
+<sub>Made with curiosity, code and continuous learning ☁️</sub>
+
 </div>
