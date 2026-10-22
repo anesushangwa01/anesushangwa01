@@ -37,7 +37,7 @@ Have an idea or a business challenge? I build practical digital solutions, from 
 
 <div align="center">
 
-<sub>Software Development · Cloud Infrastructure · DevOps & Automation</sub>
+<sub>Full-Stack Software Engineering · AI Integration · Cloud & DevOps</sub>
 
 [Explore Projects](https://github.com/anesushangwa01?tab=repositories) · [Connect on WhatsApp](https://wa.me/263774998764)
 
@@ -47,9 +47,10 @@ Have an idea or a business challenge? I build practical digital solutions, from 
 
 ## 👨‍💻 A little about me
 
-I'm **Anesu**, a BYU–Idaho software development graduate and a current Ensign College System Administration certificate student—and a software developer who enjoys building web and mobile applications—and understanding everything it takes to run them in the real world.
+I'm **Anesu**, a software development graduate of BYU–Idaho currently studying System Administration at Ensign College. I build web and mobile applications, backend systems, and explore practical AI integrations—including an admin-facing assistant for accessing business data.
 
-- 🔭 **Building:** practical applications and backend services
+- 🔭 **Building:** full-stack applications, backend services, and AI-assisted workflows
+- 🤖 **AI in practice:** implemented a RAG-based administrative assistant for looking up customer, booking, order and pending-record information; continuing to learn RAG and vector search
 - ☁️ **Exploring:** Microsoft Azure, AWS, cloud architecture and operations
 - ⚙️ **Practicing:** Infrastructure as Code, containers, networking and Linux
 - 🧭 **Growing toward:** Cloud / Platform Engineering
@@ -57,7 +58,7 @@ I'm **Anesu**, a BYU–Idaho software development graduate and a current Ensign 
 
 ## 🚀 Featured projects
 
-A selection of real-world platforms I've contributed to, spanning **commerce, careers, and logistics**.
+A selection of real-world platforms I've contributed to, spanning **commerce, careers, logistics, and tourism**.
 
 <table>
 <tr>
@@ -94,7 +95,21 @@ Transport-focused software project supporting the digitization of truck and logi
 </tr>
 </table>
 
-> These are collaborative projects I've worked on. Each showcases a different real-world problem and product domain.
+
+<table><tr><td valign="top">
+
+### 🦁 Safari Wild Tracks
+**Tourism platform · AI-assisted administration**
+
+Worked on a safari/tourism project that includes an **admin-facing RAG assistant** designed to help administrators retrieve and summarize information from business records, such as customer details, new orders, bookings, and pending items.
+
+**My AI learning in practice:** retrieval-augmented generation (RAG) for querying operational information. I'm continuing to develop my knowledge of vector search and AI integration.
+
+[**Visit Safari Wild Tracks ↗**](https://safariwildtracks.com/)
+
+</td></tr></table>
+
+> These are projects I've worked on. Each showcases a different real-world problem and product domain.
 
 ## 🎓 Education & qualifications
 
