@@ -25,35 +25,60 @@ I'm **Anesu**, a BYU–Idaho software development graduate and a current Ensign 
 - 🧭 **Growing toward:** Cloud / Platform Engineering
 - 💡 **My approach:** learn by building, document what works, improve what doesn't
 
-## 🎓 Education & professional development
+## 🎓 Education & qualifications
+
+A foundation in **software engineering** and an expanding focus on **systems, infrastructure, and cloud operations**.
 
 <table>
-<tr><td width="50%" valign="top">
+<tr>
+<td width="125" align="center" valign="middle">
+<a href="https://www.byui.edu/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Brigham_Young_University%E2%80%93Idaho_logo.svg" alt="BYU–Idaho logo" width="100"></a>
+</td>
+<td valign="middle">
 
-### 🎓 BYU–Idaho
+### Brigham Young University–Idaho
 
 **Degree in Software Development**  
-**Completed**
+<img src="https://img.shields.io/badge/COMPLETED-15803d?style=flat-square&logo=checkmarx&logoColor=white" alt="Completed">
 
-Academic foundation in software development, programming, web applications, databases and software engineering.
+Software engineering · Application development · Programming · Databases
 
-[Explore the program ↗](https://www.byupathway.edu/bachelors-degree/software-development)
+[University ↗](https://www.byui.edu/) · [Degree information ↗](https://www.byupathway.edu/bachelors-degree/software-development)
 
-</td><td width="50%" valign="top">
-
-### 🖥️ Ensign College
-
-**System Administration Certificate**  
-**Currently pursuing**
-
-Building expertise in Linux and Windows server administration, Azure, AWS, scripting, troubleshooting and cloud infrastructure.
-
-[Explore the curriculum ↗](https://ensign.smartcatalogiq.com/en/2025-2026/academic-catalog/academic-programs/certificates/system-administration-certificate)
-
-</td></tr>
+</td>
+</tr>
 </table>
 
-**Additional credentials & continued learning:** Oracle Cloud Infrastructure (OCI) 2025 Foundations and multicloud architecture, with further study in Azure administration (AZ-104), Terraform, Docker, Kubernetes and AWS.
+<table>
+<tr>
+<td width="125" align="center" valign="middle">
+<a href="https://www.ensign.edu/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Ensign_College_wordmark.svg" alt="Ensign College wordmark" width="110"></a>
+</td>
+<td valign="middle">
+
+### Ensign College
+
+**System Administration Certificate**  
+<img src="https://img.shields.io/badge/IN_PROGRESS-2563eb?style=flat-square&logo=bookstack&logoColor=white" alt="In progress">
+
+Linux & Windows servers · Networking · Cloud infrastructure · Scripting
+
+[College ↗](https://www.ensign.edu/) · [Certificate curriculum ↗](https://ensign.smartcatalogiq.com/en/2025-2026/academic-catalog/academic-programs/certificates/system-administration-certificate)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📜 Professional credentials & continuing education</b></summary>
+<br/>
+
+- **Oracle Cloud Infrastructure (OCI) 2025 Foundations** — listed credential
+- **Multicloud Architect** — listed credential
+- **Microsoft Azure Administration (AZ-104)** — learning focus
+- **Terraform, AWS, Docker & Kubernetes** — hands-on professional development
+
+</details>
 
 ## ⚡ Tech stack
 
