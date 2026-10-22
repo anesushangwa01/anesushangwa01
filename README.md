@@ -17,13 +17,43 @@ Software Development &nbsp;•&nbsp; Cloud Infrastructure &nbsp;•&nbsp; DevOps
 
 ## 👨‍💻 A little about me
 
-I'm **Anesu**, a software developer who enjoys building web and mobile applications—and understanding everything it takes to run them in the real world.
+I'm **Anesu**, a BYU–Idaho software development graduate and a current Ensign College System Administration certificate student—and a software developer who enjoys building web and mobile applications—and understanding everything it takes to run them in the real world.
 
 - 🔭 **Building:** practical applications and backend services
 - ☁️ **Exploring:** Microsoft Azure, AWS, cloud architecture and operations
 - ⚙️ **Practicing:** Infrastructure as Code, containers, networking and Linux
 - 🧭 **Growing toward:** Cloud / Platform Engineering
 - 💡 **My approach:** learn by building, document what works, improve what doesn't
+
+## 🎓 Education & professional development
+
+<table>
+<tr><td width="50%" valign="top">
+
+### 🎓 BYU–Idaho
+
+**Degree in Software Development**  
+**Completed**
+
+Academic foundation in software development, programming, web applications, databases and software engineering.
+
+[Explore the program ↗](https://www.byupathway.edu/bachelors-degree/software-development)
+
+</td><td width="50%" valign="top">
+
+### 🖥️ Ensign College
+
+**System Administration Certificate**  
+**Currently pursuing**
+
+Building expertise in Linux and Windows server administration, Azure, AWS, scripting, troubleshooting and cloud infrastructure.
+
+[Explore the curriculum ↗](https://ensign.smartcatalogiq.com/en/2025-2026/academic-catalog/academic-programs/certificates/system-administration-certificate)
+
+</td></tr>
+</table>
+
+**Additional credentials & continued learning:** Oracle Cloud Infrastructure (OCI) 2025 Foundations and multicloud architecture, with further study in Azure administration (AZ-104), Terraform, Docker, Kubernetes and AWS.
 
 ## ⚡ Tech stack
 
