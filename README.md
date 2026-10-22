@@ -73,6 +73,7 @@ Linux & Windows servers · Networking · Cloud infrastructure · Scripting
 <summary><b>📜 Professional credentials & continuing education</b></summary>
 <br/>
 
+- **Microsoft Certified: Azure Fundamentals (AZ-900)** — earned certification
 - **Oracle Cloud Infrastructure (OCI) 2025 Foundations** — listed credential
 - **Multicloud Architect** — listed credential
 - **Microsoft Azure Administration (AZ-104)** — learning focus
