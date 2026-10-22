@@ -1,226 +1,142 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Anesu Shangwa — Software Developer, Cloud and DevOps" width="100%" />
-
-</div>
+<img src="./assets/header.svg" width="100%" alt="Anesu Shangwa | Software Engineering • AI Integration • Cloud & DevOps" />
 
 <br/>
 
-<table>
-<tr>
-<td width="62%" valign="middle">
+### Software Engineer · Full-Stack Development · AI Integration · Cloud & DevOps
 
-### 🚀 Let's build your next software solution
+I build digital products that solve practical business problems—from web and mobile applications to backend systems and AI-assisted workflows.
 
-**Websites · Web apps · Mobile apps · Business systems**
+**Have a project in mind? Let's turn it into working software.**
 
-Have an idea or a business challenge? I build practical digital solutions, from planning and development through deployment.
+[![Discuss a project on WhatsApp](https://img.shields.io/badge/WhatsApp-Discuss_a_Project-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/263774998764?text=Hello%20Anesu%2C%20I%27d%20like%20to%20discuss%20a%20software%20project.)
+[![Send an email](https://img.shields.io/badge/Email-Get_in_Touch-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anesushangwa01@gmail.com?subject=Software%20Project%20Inquiry)
 
-**Let's talk about your project.**
-
-</td>
-<td width="38%" valign="middle">
-
-**📬 Start a conversation**
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/263774998764?text=Hello%20Anesu%2C%20I%27d%20like%20to%20discuss%20a%20software%20project.)
-
-[![Email](https://img.shields.io/badge/Email-Send_Inquiry-2563EB?style=flat-square&logo=gmail&logoColor=white)](mailto:anesushangwa01@gmail.com?subject=Software%20Project%20Inquiry)
-
-[+263 77 499 8764](https://wa.me/263774998764)
-
-[anesushangwa01@gmail.com](mailto:anesushangwa01@gmail.com)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<sub>Full-Stack Software Engineering · AI Integration · Cloud & DevOps</sub>
-
-[Explore Projects](https://github.com/anesushangwa01?tab=repositories) · [Connect on WhatsApp](https://wa.me/263774998764)
+<sub>📍 Zimbabwe &nbsp;·&nbsp; 📞 +263 77 499 8764 &nbsp;·&nbsp; ✉️ anesushangwa01@gmail.com</sub>
 
 </div>
-
-<br/>
-
-## 👨‍💻 A little about me
-
-I'm **Anesu**, a software development graduate of BYU–Idaho currently studying System Administration at Ensign College. I build web and mobile applications, backend systems, and explore practical AI integrations—including an admin-facing assistant for accessing business data.
-
-- 🔭 **Building:** full-stack applications, backend services, and AI-assisted workflows
-- 🤖 **AI in practice:** implemented a RAG-based administrative assistant for looking up customer, booking, order and pending-record information; continuing to learn RAG and vector search
-- ☁️ **Exploring:** Microsoft Azure, AWS, cloud architecture and operations
-- ⚙️ **Practicing:** Infrastructure as Code, containers, networking and Linux
-- 🧭 **Growing toward:** Cloud / Platform Engineering
-- 💡 **My approach:** learn by building, document what works, improve what doesn't
-
-## 🚀 Featured projects
-
-A selection of real-world platforms I've contributed to, spanning **commerce, careers, logistics, and tourism**.
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🛍️ Cleeka
-**E-commerce & marketplace**
-
-Online shopping platform featuring product discovery across multiple categories, customer shopping experiences, and vendor access.
-
-[**Visit Cleeka ↗**](https://cleeka.com/)
-
-</td>
-<td width="33%" valign="top">
-
-### 🌱 Kukura Zimbabwe
-**Careers & opportunities**
-
-Career-oriented digital platform connecting students and employers, focused on improving access to opportunities.
-
-[**Visit Kukura ↗**](https://www.kukurazimbabwe.org/)
-
-</td>
-<td width="33%" valign="top">
-
-### 🚚 TruckGo
-**Transport & logistics**
-
-Transport-focused software project supporting the digitization of truck and logistics services.
-
-[**Visit TruckGo ↗**](https://truckgo.co.zw/)
-
-</td>
-</tr>
-</table>
-
-
-<table><tr><td valign="top">
-
-### 🦁 Safari Wild Tracks
-**Tourism platform · AI-assisted administration**
-
-Worked on a safari/tourism project that includes an **admin-facing RAG assistant** designed to help administrators retrieve and summarize information from business records, such as customer details, new orders, bookings, and pending items.
-
-**My AI learning in practice:** retrieval-augmented generation (RAG) for querying operational information. I'm continuing to develop my knowledge of vector search and AI integration.
-
-[**Visit Safari Wild Tracks ↗**](https://safariwildtracks.com/)
-
-</td></tr></table>
-
-> These are projects I've worked on. Each showcases a different real-world problem and product domain.
-
-## 🎓 Education & qualifications
-
-A foundation in **software engineering** and an expanding focus on **systems, infrastructure, and cloud operations**.
-
-<table>
-<tr>
-<td width="125" align="center" valign="middle">
-<a href="https://www.byui.edu/"><img src="./assets/byui-mark.svg" alt="BYU–Idaho text mark" width="100"></a>
-</td>
-<td valign="middle">
-
-### Brigham Young University–Idaho
-
-**Degree in Software Development**  
-<img src="https://img.shields.io/badge/COMPLETED-15803d?style=flat-square&logo=checkmarx&logoColor=white" alt="Completed">
-
-Software engineering · Application development · Programming · Databases
-
-[University ↗](https://www.byui.edu/) · [Degree information ↗](https://www.byupathway.edu/bachelors-degree/software-development)
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="125" align="center" valign="middle">
-<a href="https://www.ensign.edu/"><img src="./assets/ensign-mark.svg" alt="Ensign College text mark" width="110"></a>
-</td>
-<td valign="middle">
-
-### Ensign College
-
-**System Administration Certificate**  
-<img src="https://img.shields.io/badge/IN_PROGRESS-2563eb?style=flat-square&logo=bookstack&logoColor=white" alt="In progress">
-
-Linux & Windows servers · Networking · Cloud infrastructure · Scripting
-
-[College ↗](https://www.ensign.edu/) · [Certificate curriculum ↗](https://ensign.smartcatalogiq.com/en/2025-2026/academic-catalog/academic-programs/certificates/system-administration-certificate)
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>📜 Professional credentials & continuing education</b></summary>
-<br/>
-
-- **Microsoft Certified: Azure Fundamentals (AZ-900)** — earned certification
-- **Oracle Cloud Infrastructure (OCI) 2025 Foundations** — listed credential
-- **Multicloud Architect** — listed credential
-- **Microsoft Azure Administration (AZ-104)** — learning focus
-- **Terraform, AWS, Docker & Kubernetes** — hands-on professional development
-
-</details>
-
-## ⚡ Tech stack
-
-<div align="center">
-
-**Cloud & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=azure,aws,terraform,docker,kubernetes,linux&theme=dark" alt="Azure, AWS, Terraform, Docker, Kubernetes, Linux" />
-
-**Development & Backend**
-
-<img src="https://skillicons.dev/icons?i=git,github,postgres,supabase,nginx,bash&theme=dark" alt="Git, GitHub, PostgreSQL, Supabase, Nginx, Bash" />
-
-</div>
-
-<sub>These are technologies I work with or am learning, not a claim of certification in all of them.</sub>
-
-## 🛠️ Engineering focus
-
-| 💻 Software engineering | ☁️ Cloud infrastructure | 🚀 DevOps & operations |
-| :--- | :--- | :--- |
-| Web and mobile applications | Azure & AWS fundamentals | Terraform (Infrastructure as Code) |
-| Backend services and APIs | Virtual networks & Linux servers | Docker & Kubernetes |
-| PostgreSQL & Supabase | Secure, scalable architecture | Git, automation & monitoring |
-
-## 🧭 My learning roadmap
-
-| Step | Focus | Why it matters |
-| :---: | :--- | :--- |
-| **01** | **Software development** | Build and understand real applications |
-| **02** | **Azure administration · AZ-104** | Manage core cloud resources |
-| **03** | **Terraform / Infrastructure as Code** | Provision repeatable environments |
-| **04** | **AWS architecture** | Develop multi-cloud design skills |
-| **05** | **DevOps · Linux · Kubernetes** | Operate and automate reliable services |
-| **06** | **Cloud / Platform Engineering** | Bring software and infrastructure together |
-
-## 📈 GitHub in action
-
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/anesushangwa01?style=flat-square&logo=github&label=Followers)](https://github.com/anesushangwa01?tab=followers)
-[![Public repositories](https://img.shields.io/badge/Projects-Explore_my_repositories-2c6fbd?style=flat-square&logo=github)](https://github.com/anesushangwa01?tab=repositories)
-
-</div>
-
-> Great engineering is more than writing code. It's also deploying it, securing it and making it dependable.
-
-<div align="center">
 
 ---
 
-**Open to learning, collaboration and meaningful engineering challenges.**
+## ✨ Selected work
 
-[**Explore my work →**](https://github.com/anesushangwa01?tab=repositories)
+**Live products I've worked on across e-commerce, career services, transport, and tourism.**
 
-<sub>Made with curiosity, code and continuous learning ☁️</sub>
+| Project | Domain | What it does |
+| :--- | :--- | :--- |
+| **[Cleeka ↗](https://cleeka.com/)** | 🛍️ E-commerce | Shopping and marketplace experiences, including product discovery and vendor-facing functionality |
+| **[Kukura Zimbabwe ↗](https://www.kukurazimbabwe.org/)** | 🌱 Careers | Connects students and employers with career-related opportunities |
+| **[TruckGo ↗](https://truckgo.co.zw/)** | 🚚 Logistics | Transport and truck-service software |
+| **[Safari Wild Tracks ↗](https://safariwildtracks.com/)** | 🦁 Tourism + AI | Tourism platform with an AI-assisted administrative workflow |
+
+### 🤖 AI in a real application — Safari Wild Tracks
+
+As part of **Safari Wild Tracks**, I worked on an **admin-facing assistant using RAG (Retrieval-Augmented Generation)** to help administrators retrieve relevant operational information.
+
+**Example queries:** customer details · new orders · bookings · pending records
+
+This is part of my practical exploration of **LLM integration, information retrieval, and vector search**. I'm actively developing these skills, rather than claiming to specialize in model training.
+
+[**Explore Safari Wild Tracks →**](https://safariwildtracks.com/)
+
+---
+
+## 👨‍💻 About me
+
+I'm **Anesu Shangwa**, a **BYU–Idaho software development graduate** and a current **Ensign College System Administration certificate student**.
+
+I enjoy solving problems across the full software lifecycle: designing applications, developing backend services, working with databases, deploying systems, and understanding the infrastructure that keeps them running.
+
+- **Software:** web and mobile apps, business systems, APIs, and databases
+- **AI:** practical LLM integrations and retrieval-augmented experiences
+- **Cloud:** Azure, AWS, and infrastructure fundamentals
+- **Operations:** Linux, Docker, Terraform, networking, and automation
+- **Direction:** building toward cloud and platform engineering
+
+---
+
+## 🧰 Engineering toolkit
+
+<div align="center">
+
+**Cloud · Infrastructure · DevOps**
+
+<img src="https://skillicons.dev/icons?i=azure,aws,terraform,docker,kubernetes,linux&theme=dark" alt="Azure, AWS, Terraform, Docker, Kubernetes and Linux" />
+
+**Application development · Data · Operations**
+
+<img src="https://skillicons.dev/icons?i=git,github,postgres,supabase,nginx,bash&theme=dark" alt="Git, GitHub, PostgreSQL, Supabase, Nginx and Bash" />
+
+</div>
+
+<sub>Tools shown represent a mixture of hands-on experience and technologies I am learning; they are not all professional certifications.</sub>
+
+---
+
+## 🎓 Education
+
+<table>
+<tr>
+<td width="105" align="center"><a href="https://www.byui.edu/"><img src="./assets/byui-mark.svg" width="94" alt="BYU–Idaho text mark"></a></td>
+<td valign="middle">
+
+**Brigham Young University–Idaho**
+
+**Degree in Software Development** &nbsp; ![Completed](https://img.shields.io/badge/Completed-15803d?style=flat-square)
+
+Software engineering · Programming · Web development · Databases
+
+[Program information ↗](https://www.byupathway.edu/bachelors-degree/software-development)
+
+</td>
+</tr>
+<tr>
+<td width="105" align="center"><a href="https://www.ensign.edu/"><img src="./assets/ensign-mark.svg" width="94" alt="Ensign College text mark"></a></td>
+<td valign="middle">
+
+**Ensign College**
+
+**System Administration Certificate** &nbsp; ![In progress](https://img.shields.io/badge/In_Progress-2563eb?style=flat-square)
+
+Server administration · Networking · Scripting · Cloud infrastructure
+
+[Program information ↗](https://ensign.smartcatalogiq.com/en/2025-2026/academic-catalog/academic-programs/certificates/system-administration-certificate)
+
+</td>
+</tr>
+</table>
+
+## 🏅 Certifications & professional learning
+
+| Qualification | Status |
+| :--- | :--- |
+| **Microsoft Certified: Azure Fundamentals (AZ-900)** | ✅ Earned |
+| **Oracle Cloud Infrastructure 2025 Foundations** | Listed credential |
+| **Multicloud Architect** | Listed credential |
+| **Microsoft Azure Administrator (AZ-104)** | 📘 Studying |
+| **AWS · Terraform · Kubernetes · Linux** | 🛠️ Continued learning |
+
+*Certification wording reflects the qualifications and progress I've shared; public verification links can be added where available.*
+
+---
+
+## 🧭 Where I'm heading
+
+`Software Engineering` → `Azure Administration` → `Infrastructure as Code` → `AWS & Multicloud` → `DevOps / Kubernetes` → **`Cloud & Platform Engineering`**
+
+I'm interested in the intersection of **software development, intelligent applications, and reliable cloud infrastructure**.
+
+---
+
+<div align="center">
+
+### Let's work on something useful.
+
+**Need a website, application, business platform, or AI-enabled workflow?**
+
+[**💬 WhatsApp**](https://wa.me/263774998764?text=Hello%20Anesu%2C%20I%27d%20like%20to%20discuss%20a%20software%20project.) &nbsp; • &nbsp; [**✉️ Email**](mailto:anesushangwa01@gmail.com?subject=Software%20Project%20Inquiry) &nbsp; • &nbsp; [**💻 GitHub Projects**](https://github.com/anesushangwa01?tab=repositories)
+
+<sub>Thoughtful software. Practical engineering. Continuous learning.</sub>
 
 </div>
