@@ -32,7 +32,7 @@ A foundation in **software engineering** and an expanding focus on **systems, in
 <table>
 <tr>
 <td width="125" align="center" valign="middle">
-<a href="https://www.byui.edu/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Brigham_Young_University%E2%80%93Idaho_logo.svg" alt="BYU–Idaho logo" width="100"></a>
+<a href="https://www.byui.edu/"><img src="./assets/byui-mark.svg" alt="BYU–Idaho text mark" width="100"></a>
 </td>
 <td valign="middle">
 
@@ -52,7 +52,7 @@ Software engineering · Application development · Programming · Databases
 <table>
 <tr>
 <td width="125" align="center" valign="middle">
-<a href="https://www.ensign.edu/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Ensign_College_wordmark.svg" alt="Ensign College wordmark" width="110"></a>
+<a href="https://www.ensign.edu/"><img src="./assets/ensign-mark.svg" alt="Ensign College text mark" width="110"></a>
 </td>
 <td valign="middle">
 
