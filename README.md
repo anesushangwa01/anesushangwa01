@@ -42,17 +42,6 @@ This is part of my practical exploration of **LLM integration, information retri
 
 ---
 
-## 📊 GitHub repository traffic
-
-![Profile views](https://komarev.com/ghpvc/?username=anesushangwa01&color=blue&style=flat-square)
-
-| Information | Available? | Where to check |
-| :--- | :---: | :--- |
-| Number of repository visitors | ✅ Yes | [Profile README repository traffic](https://github.com/anesushangwa01/anesushangwa01/graphs/traffic) |
-| Daily visitor trends | ✅ Yes | [Traffic graphs](https://github.com/anesushangwa01/anesushangwa01/graphs/traffic) |
-| Number of repository clones | ✅ Yes | [Clone statistics](https://github.com/anesushangwa01/anesushangwa01/graphs/traffic) |
-
-<sub>GitHub Insights shows repository traffic for the past 14 days to users with appropriate repository access. The public badge is an approximate image-request counter, not verified unique visitors. Neither identifies individual viewers or confirms which company visited.</sub>
 
 ---
 
@@ -154,3 +143,17 @@ I'm interested in the intersection of **software development, intelligent applic
 <sub>Thoughtful software. Practical engineering. Continuous learning.</sub>
 
 </div>
+
+---
+
+## 📊 GitHub repository traffic
+
+![Profile views](https://komarev.com/ghpvc/?username=anesushangwa01&color=blue&style=flat-square)
+
+| Information | Available? | Where to check |
+| :--- | :---: | :--- |
+| Number of repository visitors | ✅ Yes | [Profile README repository traffic](https://github.com/anesushangwa01/anesushangwa01/graphs/traffic) |
+| Daily visitor trends | ✅ Yes | [Traffic graphs](https://github.com/anesushangwa01/anesushangwa01/graphs/traffic) |
+| Number of repository clones | ✅ Yes | [Clone statistics](https://github.com/anesushangwa01/anesushangwa01/graphs/traffic) |
+
+<sub>GitHub Insights shows repository traffic for the past 14 days to users with appropriate repository access. The public badge is an approximate image-request counter, not verified unique visitors. Neither identifies individual viewers or confirms which company visited.</sub>
